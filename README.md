@@ -5,9 +5,11 @@ Use artificial intelligence to remind you to keep your hands away from your face
 
 ![](name-of-giphy.gif)
 
-Technologies used:
-Pytorch
-Yolo v5
-Google Colab (for training)
-Roboflow
-OpenCV2
+# Technologies used:
+- Pytorch
+- Yolo v5
+- Google Colab (for training)
+- Roboflow
+- OpenCV2
+- Object Detection
+- Computer Vision
